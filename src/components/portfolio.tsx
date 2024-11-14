@@ -48,7 +48,7 @@ const Portfolio = () => {
     </div>
     </div>
     {/* Second Row */}
-    <div className=" flex justify-center gap-5  flex-col sm:flex-row  flex-wrap mt-16">
+    <div className=" flex sm:flex-row justify-center gap-5 flex-wrap lg:mt-16">
     <div className="rounded-lg p-2" style={{ boxShadow: '0 15px 30px rgba(117, 195, 16, 0.9)' }}>
       <Link href="https://speaker-website-landing-page.vercel.app">
         <Image

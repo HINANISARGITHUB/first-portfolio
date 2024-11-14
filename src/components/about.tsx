@@ -14,7 +14,7 @@ const About = () => {
             icon={faMinus}
             className="h-16 w-72 text-[#75C310] relative bottom-4"
           />
-        <span className="text-sm sm:text-base md:text-lg lg:text-[18px] text-[#E5E4E2] text-justify"> 
+        <span className="text-sm sm:text-justify md:text-lg lg:text-[18px] lg:text-justify font-medium text-[#E5E4E2] text-center "> 
         Hi! I am a frontend developer with a passion for crafting seamless and
         visually engaging user interfaces. With a strong foundation in HTML,
         CSS, TypeScript, and React, I build responsive, interactive applications
@@ -33,9 +33,9 @@ const About = () => {
         <li className="ml-12">Diploma in English</li>
       </ul>
 
-      <ul className="list-disc marker:text-[#75C310] ml-8 sm:ml-36 lg:ml-44 mt-10   sm:flex sm:gap-10 text-[#E5E4E2] text-sm lg:text-[18px] lg:ml-32px ">
+      <ul className="list-disc marker:text-[#75C310] ml-8 sm:ml-36 lg:ml-44 mt-10  flex gap-14 sm:flex sm:gap-28 text-[#E5E4E2] text-sm lg:text-[18px] lg:ml-32px">
       <li>Aspiring in AI Technologies</li>
-      <li className="ml-20">Avid Learner</li>
+      <li className="lg:ml-2">Avid Learner</li>
 
       </ul>
 
