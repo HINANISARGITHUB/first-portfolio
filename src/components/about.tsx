@@ -26,7 +26,7 @@ const About = () => {
         together!
         </span>
       </p>
-      <p className=" text-base sm:text-[18px] text-[#E5E4E2] text-justify mt-10 mx-auto sm:ml-32 lg:ml-40 ">Finally some quick bits about me:</p>
+      <p className=" text-base sm:text-[18px] text-[#E5E4E2] text-justify mt-10 mx-auto sm:ml-32 ml-5 lg:ml-40 ">Finally some quick bits about me:</p>
 
       <ul className="list-disc marker:text-[#75C310] ml-8 sm:ml-36 lg:ml-44 mt-10 flex gap-2 sm:flex sm:gap-10 text-[#E5E4E2] text-sm lg:text-[18px] lg:ml-32px">
         <li>Intermidiate in Medical science</li>
