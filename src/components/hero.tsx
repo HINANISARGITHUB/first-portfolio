@@ -11,7 +11,7 @@ const Hero = () => {
     {/* Punch line section */}
     <div className="w-full lg:w-[900px] flex flex-col items-center lg:items-start">
       <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-[64px] font-bold text-[#ffffff] text-center lg:text-left">
-        I'm Hina Nisar
+        I am Hina Nisar
       </h1>
       <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[64px] font-bold text-[#ffffff] text-center lg:text-left">
         <span className="text-[#75C310]">Front-end</span> Developer

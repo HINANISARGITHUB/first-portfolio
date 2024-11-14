@@ -15,13 +15,13 @@ const About = () => {
             className="h-16 w-72 text-[#75C310] relative bottom-4"
           />
         <span className="text-sm sm:text-base md:text-lg lg:text-[18px] text-[#E5E4E2] text-justify"> 
-        Hi! I'm a frontend developer with a passion for crafting seamless and
+        Hi! I am a frontend developer with a passion for crafting seamless and
         visually engaging user interfaces. With a strong foundation in HTML,
         CSS, TypeScript, and React, I build responsive, interactive applications
         that offer a smooth user experience. My goal is to create clean,
         efficient code that brings designs to life while prioritizing usability
-        and performance. Whether I'm working on a small component or a
-        full-scale project, I'm always excited to apply my skills to develop
+        and performance. Whether I am working on a small component or a
+        full-scale project, I am always excited to apply my skills to develop
         modern and dynamic web solutions. Let’s build something amazing
         together!
         </span>

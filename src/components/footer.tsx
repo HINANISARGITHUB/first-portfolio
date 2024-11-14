@@ -50,7 +50,7 @@ const Footer = () => {
   </div>
 
   <p className="text-[24px] sm:text-[30px] md:text-[40px] text-[#ffffff] text-center mt-10 sm:mt-20 font-serif">
-    "Thanks for Scrolling"
+    Thanks for Scrolling
   </p>
 </section>
 
