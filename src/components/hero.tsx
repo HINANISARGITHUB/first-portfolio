@@ -33,6 +33,7 @@ const Hero = () => {
       width={660}
       height={2500}
       alt="woman"
+      priority={true}
       style={{
         filter: 'drop-shadow(0 10px 20px rgba(117, 195, 16, 0.5))',
         display: 'block',

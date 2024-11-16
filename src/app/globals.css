@@ -18,6 +18,8 @@
 
 body {
   background-color: #000000;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 @layer utilities {
